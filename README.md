@@ -1,10 +1,8 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="/yuan551/akame.gif"
-       alt="Anime character with flowing hair in forest scene"
+  <img src="./akame.gif
        width="100%">
 </p>
 
 # 👋 Hi there, I'm **yuan551**
-
 (Your existing content continues below…)
