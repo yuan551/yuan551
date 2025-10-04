@@ -1,6 +1,7 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="./akame.gif
+  <img src="./akame.gif"
+       alt="Anime character with flowing hair in forest scene"
        width="100%">
 </p>
 
