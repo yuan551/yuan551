@@ -10,9 +10,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/followers/yuan551?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/yuan551?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/yuan551/yuan551?label=Commit%20activity&style=for-the-badge&color=brightgreen" alt="Commit activity" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yuan551&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+  </a>
 </p>
 
 </div>
@@ -59,19 +59,13 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" /></a>
 </p>
 
-## GitHub Activity
+## GitHub Statistics
 
-<p>
-  <a href="https://github.com/yuan551">
-    <img src="https://img.shields.io/github/last-commit/yuan551/yuan551?label=Last%20profile%20update&style=for-the-badge&color=blueviolet" alt="Last profile update" />
-  </a>
-  <a href="https://github.com/yuan551?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/yuan551?label=Public%20repositories&style=for-the-badge&color=orange" alt="Public repositories" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuan551&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuan551&show_icons=true&locale=en&theme=tokyonight" alt="GitHub statistics" height="180" />
+</div>
 
-<p>
-  <a href="https://github.com/yuan551?tab=overview">
-    View my repositories and contribution activity on GitHub →
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuan551&theme=tokyonight" alt="GitHub streak" />
+</div>
