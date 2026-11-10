@@ -1,77 +1,85 @@
 <div align="center">
 
-# Hi 👋, I'm Juan Carlo Dela Cruz
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:236ad3&height=180&section=header&text=Juan%20Carlo%20Dela%20Cruz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20in%20the%20making&descSize=18&descAlignY=55" width="100%" alt="Header banner" />
 
-### Aspiring Full-Stack Developer passionate about Machine Learning and AI
-### Student at Quezon City University
+<!-- Typing animation -->
+<a href="https://github.com/yuan551">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=236AD3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Carlo+Dela+Cruz;Aspiring+Full-Stack+Developer;Passionate+about+Machine+Learning+%26+AI;Student+at+Quezon+City+University" alt="Typing animation" />
+</a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yuan551&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/github/followers/yuan551?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/yuan551?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/yuan551/yuan551?label=Commit%20activity&style=for-the-badge&color=brightgreen" alt="Commit activity" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=yuan551&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/yuan551?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub followers" />
+<img src="https://img.shields.io/github/last-commit/yuan551/yuan551?label=Last%20update&style=for-the-badge&color=blueviolet" alt="Last profile update" />
 
 </div>
 
-## About Me
+## 🚀 About Me
+
+```yaml
+name: Juan Carlo Dela Cruz
+role: Aspiring Full-Stack Developer
+school: Quezon City University 🎓
+focus: [Machine Learning, Artificial Intelligence, Software Development]
+currently: Building full-stack web & mobile applications
+mindset: Continuously learning new technologies 🌱
+```
 
 - 🎓 Currently studying at **Quezon City University**
-- 💻 Building full-stack web and mobile applications
+- 💻 Building **full-stack web and mobile applications**
 - 🤖 Interested in **Machine Learning**, **Artificial Intelligence**, and software development
 - 🌱 Continuously learning new technologies and improving my development skills
 
-## Connect with Me
+## 🛠️ Languages and Tools
 
-<p>
-  <a href="https://www.linkedin.com/in/delacruzjuancarlo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/yuan.callope" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/_yuaan1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
 
-## Languages and Tools
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=html,js,ts,react,vue,tailwind,flutter&perline=8" alt="HTML5, JavaScript, TypeScript, React & React Native, Vue.js, Tailwind CSS, Flutter" />
 
-<p>
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" /></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" /></a>
-</p>
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,mysql,firebase&perline=8" alt="Node.js, Python, MongoDB, MySQL, Firebase" />
 
-## GitHub Activity
+### Game Dev & Platforms
+<img src="https://skillicons.dev/icons?i=unity,unreal,androidstudio&perline=8" alt="Unity, Unreal Engine, Android" />
 
-<p>
-  <a href="https://github.com/yuan551">
-    <img src="https://img.shields.io/github/last-commit/yuan551/yuan551?label=Last%20profile%20update&style=for-the-badge&color=blueviolet" alt="Last profile update" />
-  </a>
-  <a href="https://github.com/yuan551?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/yuan551?label=Public%20repositories&style=for-the-badge&color=orange" alt="Public repositories" />
-  </a>
-</p>
+</div>
 
-<p>
-  <a href="https://github.com/yuan551?tab=overview">
-    View my repositories and contribution activity on GitHub →
-  </a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yuan551&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=236ad3&icon_color=0e75b6" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuan551&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=236ad3" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=yuan551&theme=tokyonight&hide_border=true&background=0d1117&ring=236ad3&fire=0e75b6&currStreakLabel=236ad3" height="165" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuan551&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=236ad3&line=0e75b6&point=ffffff" width="95%" alt="Contribution graph" />
+
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/delacruzjuancarlo/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/yuan.callope" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/_yuaan1/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/yuan551?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Repositories-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+</a>
+
+<br/><br/>
+
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:236ad3&height=120&section=footer" width="100%" alt="Footer banner" />
+
+</div>
