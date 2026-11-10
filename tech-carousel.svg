@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="130" viewBox="0 0 800 130" role="img" aria-label="Scrolling carousel of languages and tools">
+  <style>
+    .pill-text { font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; }
+    .row-l { animation: scrollL 26s linear infinite; }
+    .row-r { animation: scrollR 26s linear infinite; }
+    @keyframes scrollL { from { transform: translateX(0); } to { transform: translateX(-1312px); } }
+    @keyframes scrollR { from { transform: translateX(-1312px); } to { transform: translateX(0); } }
+  </style>
+  <defs>
+    <clipPath id="card"><rect x="0" y="0" width="800" height="130" rx="16"/></clipPath>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="800" height="130" rx="16" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <g clip-path="url(#card)">
+    <g transform="translate(0,18)">
+      <g class="row-l">
+        <g id="r1">
+          <rect x="0" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#F1662A" stroke-width="1.5"/>
+          <text x="75" y="25" text-anchor="middle" fill="#F1662A" class="pill-text">HTML5</text>
+          <rect x="164" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#F7DF1E" stroke-width="1.5"/>
+          <text x="239" y="25" text-anchor="middle" fill="#F7DF1E" class="pill-text">JavaScript</text>
+          <rect x="328" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#5CA7F7" stroke-width="1.5"/>
+          <text x="403" y="25" text-anchor="middle" fill="#5CA7F7" class="pill-text">TypeScript</text>
+          <rect x="492" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#61DAFB" stroke-width="1.5"/>
+          <text x="567" y="25" text-anchor="middle" fill="#61DAFB" class="pill-text">React</text>
+          <rect x="656" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#61DAFB" stroke-width="1.5"/>
+          <text x="731" y="25" text-anchor="middle" fill="#61DAFB" class="pill-text">React Native</text>
+          <rect x="820" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#42B883" stroke-width="1.5"/>
+          <text x="895" y="25" text-anchor="middle" fill="#42B883" class="pill-text">Vue.js</text>
+          <rect x="984" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#38BDF8" stroke-width="1.5"/>
+          <text x="1059" y="25" text-anchor="middle" fill="#38BDF8" class="pill-text">Tailwind CSS</text>
+          <rect x="1148" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#54C5F8" stroke-width="1.5"/>
+          <text x="1223" y="25" text-anchor="middle" fill="#54C5F8" class="pill-text">Flutter</text>
+        </g>
+        <use href="#r1" x="1312"/>
+      </g>
+    </g>
+    <g transform="translate(0,72)">
+      <g class="row-r">
+        <g id="r2">
+          <rect x="0" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#57A64A" stroke-width="1.5"/>
+          <text x="75" y="25" text-anchor="middle" fill="#57A64A" class="pill-text">Node.js</text>
+          <rect x="164" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#5A9FD4" stroke-width="1.5"/>
+          <text x="239" y="25" text-anchor="middle" fill="#5A9FD4" class="pill-text">Python</text>
+          <rect x="328" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#47A248" stroke-width="1.5"/>
+          <text x="403" y="25" text-anchor="middle" fill="#47A248" class="pill-text">MongoDB</text>
+          <rect x="492" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#5C94C8" stroke-width="1.5"/>
+          <text x="567" y="25" text-anchor="middle" fill="#5C94C8" class="pill-text">MySQL</text>
+          <rect x="656" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#FFCA28" stroke-width="1.5"/>
+          <text x="731" y="25" text-anchor="middle" fill="#FFCA28" class="pill-text">Firebase</text>
+          <rect x="820" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#E6EDF3" stroke-width="1.5"/>
+          <text x="895" y="25" text-anchor="middle" fill="#E6EDF3" class="pill-text">Unity</text>
+          <rect x="984" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#E6EDF3" stroke-width="1.5"/>
+          <text x="1059" y="25" text-anchor="middle" fill="#E6EDF3" class="pill-text">Unreal Engine</text>
+          <rect x="1148" y="0" width="150" height="40" rx="20" fill="#161b22" stroke="#3DDC84" stroke-width="1.5"/>
+          <text x="1223" y="25" text-anchor="middle" fill="#3DDC84" class="pill-text">Android</text>
+        </g>
+        <use href="#r2" x="1312"/>
+      </g>
+    </g>
+    <rect x="0" y="0" width="60" height="130" fill="url(#fadeL)"/>
+    <rect x="740" y="0" width="60" height="130" fill="url(#fadeR)"/>
+  </g>
+</svg>
