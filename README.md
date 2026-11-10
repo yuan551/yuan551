@@ -36,14 +36,9 @@ mindset: Continuously learning new technologies 🌱
 
 <div align="center">
 
-### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=html,js,ts,react,vue,tailwind,flutter&perline=8" alt="HTML5, JavaScript, TypeScript, React & React Native, Vue.js, Tailwind CSS, Flutter" />
+<img src="./tech-carousel.svg" width="100%" alt="Scrolling carousel of my languages and tools" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,mysql,firebase&perline=8" alt="Node.js, Python, MongoDB, MySQL, Firebase" />
-
-### Game Dev & Platforms
-<img src="https://skillicons.dev/icons?i=unity,unreal,androidstudio&perline=8" alt="Unity, Unreal Engine, Android" />
+<img src="https://skillicons.dev/icons?i=html,js,ts,react,vue,tailwind,flutter,nodejs,python,mongodb,mysql,firebase,unity,unreal,androidstudio&perline=15" alt="HTML5, JavaScript, TypeScript, React & React Native, Vue.js, Tailwind CSS, Flutter, Node.js, Python, MongoDB, MySQL, Firebase, Unity, Unreal Engine, Android" />
 
 </div>
 
