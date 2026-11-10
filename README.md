@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/yuan551">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=236AD3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Carlo+Dela+Cruz;Aspiring+Full-Stack+Developer;Passionate+about+Machine+Learning+%26+AI;Student+at+Quezon+City+University" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=236AD3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Juan+Carlo+Dela+Cruz;Aspiring+Full-Stack+Developer;Passionate+about+Machine+Learning+%26+AI;Student+at+Quezon+City+University" alt="Typing animation" />
 </a>
 
 <br/>
@@ -16,33 +16,38 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 name: Juan Carlo Dela Cruz
 role: Aspiring Full-Stack Developer
-school: Quezon City University 🎓
+school: Quezon City University
 focus: [Machine Learning, Artificial Intelligence, Software Development]
 currently: Building full-stack web & mobile applications
-mindset: Continuously learning new technologies 🌱
+mindset: Continuously learning new technologies
 ```
 
-- 🎓 Currently studying at **Quezon City University**
-- 💻 Building **full-stack web and mobile applications**
-- 🤖 Interested in **Machine Learning**, **Artificial Intelligence**, and software development
-- 🌱 Continuously learning new technologies and improving my development skills
+- Currently studying at **Quezon City University**
+- Building **full-stack web and mobile applications**
+- Interested in **Machine Learning**, **Artificial Intelligence**, and software development
+- Continuously learning new technologies and improving my development skills
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <div align="center">
 
-<img src="./tech-carousel.svg" width="100%" alt="Scrolling carousel of my languages and tools" />
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=html,js,ts,react,vue,tailwind,flutter&perline=8" alt="HTML5, JavaScript, TypeScript, React & React Native, Vue.js, Tailwind CSS, Flutter" />
 
-<img src="https://skillicons.dev/icons?i=html,js,ts,react,vue,tailwind,flutter,nodejs,python,mongodb,mysql,firebase,unity,unreal,androidstudio&perline=15" alt="HTML5, JavaScript, TypeScript, React & React Native, Vue.js, Tailwind CSS, Flutter, Node.js, Python, MongoDB, MySQL, Firebase, Unity, Unreal Engine, Android" />
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,mysql,firebase&perline=8" alt="Node.js, Python, MongoDB, MySQL, Firebase" />
+
+### Game Dev & Platforms
+<img src="https://skillicons.dev/icons?i=unity,unreal,androidstudio&perline=8" alt="Unity, Unreal Engine, Android" />
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -55,7 +60,7 @@ mindset: Continuously learning new technologies 🌱
 
 </div>
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
